@@ -1,0 +1,40 @@
+started process: 00:13:59
+finished process: 00:14:04
+started process: 00:14:10
+finished process: 00:14:15
+started process: 00:14:21
+finished process: 00:14:26
+started process: 00:14:43
+finished process: 00:14:48
+started process: 00:14:54
+finished process: 00:14:59
+started process: 00:15:05
+finished process: 00:15:10
+started process: 00:15:58
+finished process: 00:16:03
+started process: 00:16:09
+finished process: 00:16:14
+started process: 00:16:20
+finished process: 00:16:25
+started process: 00:16:41
+finished process: 00:16:46
+started process: 00:16:52
+finished process: 00:16:57
+started process: 00:17:03
+finished process: 00:17:09
+Python process with PID 30879 started
+Received Ctrl+C (SIGINT) at time 00:33:44
+Python process with PID 31895 started
+Received Ctrl+C (SIGINT) at time 00:35:12
+Python process with PID 32692 started
+Received Ctrl+C (SIGINT) at time 00:40:51
+Python process with PID 32742 started
+Received Ctrl+C (SIGINT) at time 00:41:24
+Python process with PID 528 started
+Received Ctrl+C (SIGINT) at time 00:44:07
+Python process with PID 617 started
+Received Ctrl+C (SIGINT) at time 00:45:15
+Python process with PID 1216 started
+Received Ctrl+C (SIGINT) at time 00:51:44
+Python process with PID 1419 started
+Received Ctrl+C (SIGINT) at time 00:53:21

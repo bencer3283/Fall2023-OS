@@ -1,0 +1,64 @@
+Job holding structure initialized with size: 2
+Job holding structure initialized with size: 1000
+Job created-> ID: job1, finished: 0, started: 0, sleep_time: 1
+Job created-> ID: job2, finished: 0, started: 0, sleep_time: 1
+JobHolding is extended to the size 4
+Job created-> ID: job3, finished: 0, started: 0, sleep_time: 1
+Job created-> ID: job4, finished: 0, started: 0, sleep_time: 1
+JobHolding is extended to the size 8
+Job created-> ID: job5, finished: 0, started: 0, sleep_time: 1
+Job created-> ID: job6, finished: 0, started: 0, sleep_time: 1
+Job created-> ID: job7, finished: 0, started: 0, sleep_time: 1
+Job created-> ID: job8, finished: 0, started: 0, sleep_time: 1
+Stats for jobHolding -> Size of the job array: 8, Number of jobs: 8
+Job-> JobID: job1, Started: 0, Finished: 0, SleepTime: 1
+Job-> JobID: job2, Started: 0, Finished: 0, SleepTime: 1
+Job-> JobID: job3, Started: 0, Finished: 0, SleepTime: 1
+Job-> JobID: job4, Started: 0, Finished: 0, SleepTime: 1
+Job-> JobID: job5, Started: 0, Finished: 0, SleepTime: 1
+Job-> JobID: job6, Started: 0, Finished: 0, SleepTime: 1
+Job-> JobID: job7, Started: 0, Finished: 0, SleepTime: 1
+Job-> JobID: job8, Started: 0, Finished: 0, SleepTime: 1
+Stats for finishedJobs -> Size of the job array: 1000, Number of jobs: 0
+Job started-> ID: job1, started: 1
+Sleeping for 2 seconds!
+Job with id job1 finishd with sleep time 1
+Job started-> ID: job2, started: 1
+Sleeping for 2 seconds!
+Job with id job2 finishd with sleep time 1
+Job started-> ID: job3, started: 1
+Sleeping for 2 seconds!
+Job with id job3 finishd with sleep time 1
+Job started-> ID: job4, started: 1
+Sleeping for 2 seconds!
+Job with id job4 finishd with sleep time 1
+Job started-> ID: job5, started: 1
+Sleeping for 2 seconds!
+Job with id job5 finishd with sleep time 1
+Job started-> ID: job6, started: 1
+Sleeping for 2 seconds!
+Job with id job6 finishd with sleep time 1
+Job started-> ID: job7, started: 1
+Sleeping for 2 seconds!
+Job with id job7 finishd with sleep time 1
+Stats for jobHolding -> Size of the job array: 8, Number of jobs: 8
+Job-> JobID: job1, Started: 1, Finished: 1, SleepTime: 1
+Job-> JobID: job2, Started: 1, Finished: 1, SleepTime: 1
+Job-> JobID: job3, Started: 1, Finished: 1, SleepTime: 1
+Job-> JobID: job4, Started: 1, Finished: 1, SleepTime: 1
+Job-> JobID: job5, Started: 1, Finished: 1, SleepTime: 1
+Job-> JobID: job6, Started: 1, Finished: 1, SleepTime: 1
+Job-> JobID: job7, Started: 1, Finished: 1, SleepTime: 1
+Job-> JobID: job8, Started: 0, Finished: 0, SleepTime: 1
+Stats for finishedJobs -> Size of the job array: 1000, Number of jobs: 0
+JobHolding is cleaned and the new size is: 2 and the new count is: 1
+Stats for jobHolding -> Size of the job array: 2, Number of jobs: 1
+Job-> JobID: job8, Started: 0, Finished: 0, SleepTime: 1
+Stats for finishedJobs -> Size of the job array: 1000, Number of jobs: 7
+Job-> JobID: job1, Started: 1, Finished: 1, SleepTime: 1
+Job-> JobID: job2, Started: 1, Finished: 1, SleepTime: 1
+Job-> JobID: job3, Started: 1, Finished: 1, SleepTime: 1
+Job-> JobID: job4, Started: 1, Finished: 1, SleepTime: 1
+Job-> JobID: job5, Started: 1, Finished: 1, SleepTime: 1
+Job-> JobID: job6, Started: 1, Finished: 1, SleepTime: 1
+Job-> JobID: job7, Started: 1, Finished: 1, SleepTime: 1

@@ -1,0 +1,13 @@
+create job job1 1
+create job job2 2
+create job job3 3
+create job job4 4
+create job job5 5
+create job job6 6
+create job job7 7
+create job job8 8
+stats
+start all
+sleep 10
+stats
+exit
